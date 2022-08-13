@@ -1,0 +1,70 @@
+§2Ore Generation
+
+Ore generation in REVOLUTION|2 is very different from traditional Minecraft and REVOLUTION|1. Veins are absolutely huge in REVOLUTION|2 and can go on for many thousands of blocks (with the exception of redstone, quartz, and diamonds). Occasionally, an ore may 'disappear' behind another underground feature. Just keep digging in the direction of the vein and you may come upon it's trail. 
+
+§lCoal
+Spawns just near the surface, and up into hills and mountains. The veins are long and thick, but sparsely filled with ore and often broken up by caves or depressions in the terrain.
+
+§lIron
+Groups of long narrow veins found about one third of the way down to bedrock. Especially common in snowy or icy areas.
+
+§lGold
+Groups of long narrow veins found about two thirds of the way down to bedrock. Most common in temperate hardwood forests, but still very rare.
+
+§lRedstone
+Single vertical veins starting near the surface and extending down about halfway to bedrock. Most common in desert climates.
+
+§lDiamond
+Short lava-filled tubes extending upward from bedrock with diamonds around the edges.
+
+§lLapis Lazuli
+Single vertical veins starting near bedrock and extending about halfway to the surface. Most common under ocean floors.
+
+§lEmerald
+Short sloping tubes filled sparsely with emeralds and a few ... surprises. Vastly more common under open grassy hills.
+
+§lLimonite
+Use a shovel! Generally at sea-level and a bit lower. More common in rivers and areas that spawn clay or sand.
+
+§lCopper
+Groups of long narrow veins found about one third of the way down to bedrock. Especially common in jungles.
+
+§lTin
+Groups of long narrow veins found about halfway down to bedrock. More frequent in flat grassy plains.
+
+§lPitchblende
+Isolated veins found about two thirds of the way down to bedrock and only sparsely filled with ore. Unusually common in devastated wastelands.
+
+§lLead
+Groups of long narrow veins found about one third of the way down to bedrock. Especially common in jungles.
+
+§lSilver
+Isolated veins found about two thirds of the way down to bedrock. Unusually common in mountains.
+
+§lNickel
+Groups of long narrow veins found near bedrock. Especially common in swamps.
+
+§lAluminum
+Flat Clouds found near the surface. Only found in mesa, swamp, and jungle biomes.
+
+§lCertus Quartz
+Spawns with charged certus quarts in vertical veins between y-level 76 and 52.
+
+§lApatite
+Spawns in large, rare veins between y-level 56 and 184.
+
+§lCadmium
+Spawns in the cave dimension or other planets.
+
+§lIndium
+Spawns in the cave dimension or other planets.
+
+§lFluorite
+Spawns in the cave dimension or other planets.
+
+§lMagnetite
+Spawns in the cave dimension or other planets.
+
+§lCalcite
+Spawns in the cave dimension or other planets.
+

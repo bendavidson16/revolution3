@@ -1,0 +1,65 @@
+{
+  "links":
+  {
+    "windmill1":
+    {
+      "type": "image",
+      "link": "images/windmill1.jpg" 
+    },
+    "windmill2":
+    {
+      "type": "image",
+      "link": "images/windmill2.jpg" 
+    },
+    "windmill3":
+    {
+      "type": "image",
+      "link": "images/windmill3.jpg" 
+    },
+    "windmill4":
+    {
+      "type": "image",
+      "link": "images/windmill4.jpg" 
+    },
+    "windmill5":
+    {
+      "type": "image",
+      "link": "images/windmill5.jpg" 
+    },
+    "windmill6":
+    {
+      "type": "image",
+      "link": "images/windmill6.jpg" 
+    },
+    "windmill7":
+    {
+      "type": "image",
+      "link": "images/windmill7.jpg" 
+    },
+    "sluice1":
+    {
+      "type": "image",
+      "link": "images/sluice1.jpg"
+    },
+    "sluice2":
+    {
+      "type": "image",
+      "link": "images/sluice2.jpg"
+    },
+    "sluice3":
+    {
+      "type": "image",
+      "link": "images/sluice3.jpg"
+    },
+    "sluice4":
+    {
+      "type": "image",
+      "link": "images/sluice4.jpg"
+    },
+    "sluice5":
+    {
+      "type": "image",
+      "link": "images/sluice5.jpg"
+    }
+  }
+}

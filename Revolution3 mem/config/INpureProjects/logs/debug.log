@@ -1,0 +1,467 @@
+Script handler ready. Waiting for a while to ensure all other mods are done messing with NEI.
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Engine: JAVASCRIPT
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+DragonAPI:minecraft:bed_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:bed_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:brewing_stand_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:brewing_stand_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:cake_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:cake_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:cauldron_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:cauldron_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:flower_pot_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:flower_pot_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:iron_door_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:iron_door_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:lit_redstone_lamp_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:lit_redstone_lamp_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:lit_redstone_ore_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:lit_redstone_ore_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:melon_stem_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:melon_stem_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:nether_wart_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:nether_wart_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:piston_head_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:piston_head_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:powered_comparator_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:powered_comparator_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:powered_repeater_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:powered_repeater_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:pumpkin_stem_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:pumpkin_stem_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:redstone_wire_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:redstone_wire_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:reeds_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:reeds_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:skull_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:skull_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:standing_sign_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:standing_sign_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:tripwire_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:tripwire_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:unlit_redstone_torch_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:unlit_redstone_torch_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:unpowered_comparator_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:unpowered_comparator_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:unpowered_repeater_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:unpowered_repeater_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:wall_sign_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:wall_sign_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:wheat_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:wheat_technical. If this is not correct please report it as a bug!
+DragonAPI:minecraft:wooden_door_technical has a bad registry name! Attempting to parse and reassemble correctly...
+Parsed bad name into: modid: DragonAPI, name: minecraft:wooden_door_technical. If this is not correct please report it as a bug!
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: agricraft
+Found creative tab: tools
+Found creative tab: Automagy
+Found creative tab: BiblioCraft
+Found creative tab: BiblioCraftLights
+Found creative tab: BiblioWoodsForestry
+Found creative tab: redstone
+Found creative tab: materials
+Found creative tab: apiculture
+Found creative tab: buildingBlocks
+Found creative tab: Botania
+Found creative tab: Botany
+Found creative tab: buildcraft.main
+Found creative tab: buildcraft.pipes
+Found creative tab: buildcraft.boards
+Found creative tab: buildcraft.gates
+Found creative tab: CarpentersBlocks
+Found creative tab: forestry
+Found creative tab: ChromatiCraft Deco
+Found creative tab: ChromatiCraft Worldgen
+Found creative tab: ChromatiCraft
+Found creative tab: ChromatiCraft Tools
+Found creative tab: ChromatiCraft Items
+Found creative tab: CC Info Fragments
+Found creative tab: blocksAndItems
+Found creative tab: food
+Found creative tab: toolsAndWeapons
+Found creative tab: ElectriCraft
+Found creative tab: Eln
+Found creative tab: EnderIO
+Found creative tab: EnderZoo
+Found creative tab: EnhancedInventories
+Found creative tab: transportation
+Found creative tab: Expanded Redstone
+Found creative tab: decorations
+Found creative tab: arboriculture
+Found creative tab: lepidopterology
+Found creative tab: extraUtil
+Found creative tab: combat
+Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
+Found creative tab: gardenCore
+Found creative tab: gardenTrees
+Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: ImmersiveEngineering
+Found creative tab: jabba
+Found creative tab: JAKJ_RedstoneInMotion
+Found creative tab: Logistics_Pipes
+Found creative tab: tabMCA
+Found creative tab: tabMCA.gemCutting
+Found creative tab: mutantcreatures
+Found creative tab: tabOpenBlocks
+Found creative tab: OpenComputers
+Found creative tab: tabPneumaticCraft
+Found creative tab: Practical Logistics
+Found creative tab: core
+Found creative tab: fab
+Found creative tab: ill
+Found creative tab: int
+Found creative tab: trans
+Found creative tab: railcraft
+Found creative tab: Random Things
+Found creative tab: ReactorCraft
+Found creative tab: ReactorCraft Components
+Found creative tab: ReactorCraft Items
+Found creative tab: RefinedRelocation
+Found creative tab: RotaryCraft
+Found creative tab: RotaryCraft Tools
+Found creative tab: RotaryCraft Items
+Found creative tab: Mod Ores
+Found creative tab: Spawners
+Found creative tab: storageDrawers
+Found creative tab: storageDrawersSorting
+Found creative tab: storageDrawersForestry
+Found creative tab: storageDrawersMisc
+Found creative tab: TConstructBlocks
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: TConstructEquipables
+Found creative tab: TaintedMagic
+Found creative tab: Techguns
+Found creative tab: thaumcraft
+Found creative tab: thaumicExploration
+Found creative tab: thaumichorizons
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: travellersgear
+Found creative tab: witchinggadgets
+Found creative tab: ztones
+Found creative tab: advancedRocketryOres
+Found creative tab: advancedRocketry
+Found creative tab: bdew.ae2stuff
+Found creative tab: appliedenergistics2
+Found creative tab: appliedenergistics2.facades
+Found creative tab: arcaneengineering
+Found creative tab: betterquesting
+Found creative tab: butterflymaniatab
+Found creative tab: catwalks
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabStairChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: cookingbook
+Found creative tab: enviromine.enviroTab
+Found creative tab: etfuturum
+Found creative tab: tabExoticbirds
+Found creative tab: Extra_Cells
+Found creative tab: Fossil Blocks
+Found creative tab: Fossil Items
+Found creative tab: bdew.gendustry
+Found creative tab: bdew.samples
+Found creative tab: bdew.templates
+Found creative tab: GwyCraft
+Found creative tab: tabHarvestCraft2
+Found creative tab: tabHarvestCraft3
+Found creative tab: tabHarvestCraft
+Found creative tab: headcrumbs
+Found creative tab: immersiveintegration
+Found creative tab: multiBlock
+Found creative tab: malisisdoors
+Found creative tab: tabMatterOverdrive_food
+Found creative tab: tabMatterOverdrive
+Found creative tab: tabMatterOverdrive_buildings
+Found creative tab: tabMatterOverdrive_decorative
+Found creative tab: tabMatterOverdrive_ships
+Found creative tab: tabMatterOverdrive_modules
+Found creative tab: tabMatterOverdrive_upgrades
+Found creative tab: powersuits
+Found creative tab: props.Main
+Found creative tab: search
+Found creative tab: inventoryGenerators
+Found creative tab: structureTools
+Found creative tab: RfTools
+Found creative tab: RfToolsDimlets
+Found creative tab: RoadStuff
+Found creative tab: tabSecurityCraft
+Found creative tab: Traincraft
+Found creative tab: ThaumicEnergistics
+Found creative tab: tabWitchery
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Setting up BuildCraft Library...
+Setting up Applied Energistics 2 Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+hide called. Params: minecraft, portal
+Regex match found! minecraft:portal matches minecraft:portal.
+Found ItemStack minecraft:portal. 64xtile.portal@0
+hide called. Params: minecraft, end_portal
+Regex match found! minecraft:end_portal matches minecraft:end_portal.
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+hide called. Params: minecraft, fire
+Regex match found! minecraft:fire matches minecraft:fire.
+Found ItemStack minecraft:fire. 64xtile.fire@0
+hide called. Params: minecraft, water
+Regex match found! minecraft:water matches minecraft:water.
+Found ItemStack minecraft:water. 64xtile.water@0
+hide called. Params: minecraft, lava
+Regex match found! minecraft:lava matches minecraft:lava.
+Found ItemStack minecraft:lava. 64xtile.lava@0
+hide called. Params: minecraft, mob_spawner
+Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
+Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: ChromatiCraft:chromaticraft_block_dye_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ChromatiCraft:chromaticraft_block_dye_3
+Loading: ExtraUtilities.js
+override called. Params: ExtraUtilities, drum, 0,1
+Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: ChromatiCraft:chromaticraft_block_dye_8
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ChromatiCraft:chromaticraft_block_dye_8
+Loading: BuildCraft.js
+hide called. Params: BuildCraft|Transport, pipeWaterproof
+Regex match found! BuildCraft|Transport:pipeWaterproof matches BuildCraft|Transport:pipeWaterproof.
+Found ItemStack BuildCraft|Transport:pipeWaterproof. 64xitem.pipeWaterproof@0
+getFacadesSize called. Returned: 4486
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2384
+Loading: Bibliocraft.js
+Loading: AppliedEnergistics2.js
+getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
+getSubTypes called.
+getNumberOfTypes called. Returned: 3395
+override called. Params: appliedenergistics2, item.ItemFacade, 3275
+Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
+Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
+Loading: MFR.js
+Loading: WoodenBuckets.js
+override called. Params: woodenbucket, wbBucket, 0
+Regex match found! woodenbucket:wbBucket matches woodenbucket:wbBucket.
+Found ItemStack woodenbucket:wbBucket. 16xitem.woodenbucket:WoodenBucket@0
+Loading: BiomesOPlenty.js
+Loading: EnderIO.js
+hide called. Params: EnderIO:itemMaterial, 2
+Loading: Enviromine.js
+hide called. Params: enviromine, davy_lamp
+Regex match found! enviromine:davy_lamp matches enviromine:davy_lamp.
+Found ItemStack enviromine:davy_lamp. 64xtile.enviromine.davy_lamp@0
+hide called. Params: enviromine, airFilter
+Regex match found! enviromine:airFilter matches enviromine:airFilter.
+Found ItemStack enviromine:airFilter. 16xitem.enviromine.airfilter@0
+hide called. Params: enviromine, camelPack
+Regex match found! enviromine:camelPack matches enviromine:camelPack.
+Found ItemStack enviromine:camelPack. 1xitem.enviromine.camelpack@0
+hide called. Params: enviromine, gasMask
+Regex match found! enviromine:gasMask matches enviromine:gasMask.
+Found ItemStack enviromine:gasMask. 1xitem.enviromine.gasmask@0
+hide called. Params: enviromine, hardHat
+Regex match found! enviromine:hardHat matches enviromine:hardHat.
+Found ItemStack enviromine:hardHat. 1xitem.enviromine.hardhat@0
+Loading: HarvestCraft.js
+hide called. Params: harvestcraft, epicbaconItem
+Regex match found! harvestcraft:epicbaconItem matches harvestcraft:epicbaconItem.
+Found ItemStack harvestcraft:epicbaconItem. 64xitem.epicbaconItem@0
+Loading: Natura.js
+Loading: Railcraft.js
+hide called. Params: Railcraft:machine.alpha, 12
+hide called. Params: Railcraft:machine.alpha, 7
+Loading: StorageDrawers.js
+Loading: TiCo.js
+hide called. Params: TConstruct, ArrowAmmo
+Regex match found! TConstruct:ArrowAmmo matches TConstruct:ArrowAmmo.
+Found ItemStack TConstruct:ArrowAmmo. 1xitem.InfiTool@0
+hide called. Params: TConstruct, BoltAmmo
+Regex match found! TConstruct:BoltAmmo matches TConstruct:BoltAmmo.
+Found ItemStack TConstruct:BoltAmmo. 1xitem.InfiTool@0
+hide called. Params: TConstruct, Crossbow
+Regex match found! TConstruct:Crossbow matches TConstruct:Crossbow.
+Found ItemStack TConstruct:Crossbow. 1xitem.InfiTool@0
+hide called. Params: TConstruct, GlassArrows
+Regex match found! TConstruct:GlassArrows matches TConstruct:GlassArrows.
+Found ItemStack TConstruct:GlassArrows. 1xitem.tconstruct.glassArrows@0
+hide called. Params: TConstruct, Javelin
+Regex match found! TConstruct:Javelin matches TConstruct:Javelin.
+Found ItemStack TConstruct:Javelin. 1xitem.InfiTool@0
+hide called. Params: TConstruct, LongBow
+Regex match found! TConstruct:LongBow matches TConstruct:LongBow.
+Found ItemStack TConstruct:LongBow. 1xitem.InfiTool@0
+hide called. Params: TConstruct, ShortBow
+Regex match found! TConstruct:ShortBow matches TConstruct:ShortBow.
+Found ItemStack TConstruct:ShortBow. 1xitem.InfiTool@0
+hide called. Params: TConstruct, Shuriken
+Regex match found! TConstruct:Shuriken matches TConstruct:Shuriken.
+Found ItemStack TConstruct:Shuriken. 1xitem.InfiTool@0
+hide called. Params: TConstruct, ThrowingKnife
+Regex match found! TConstruct:ThrowingKnife matches TConstruct:ThrowingKnife.
+Found ItemStack TConstruct:ThrowingKnife. 1xitem.InfiTool@0
+hide called. Params: TConstruct, broadsword
+Regex match found! TConstruct:broadsword matches TConstruct:broadsword.
+Found ItemStack TConstruct:broadsword. 1xitem.InfiTool.Broadsword@0
+hide called. Params: TConstruct, cutlass
+Regex match found! TConstruct:cutlass matches TConstruct:cutlass.
+Found ItemStack TConstruct:cutlass. 1xitem.InfiTool.Cutlass@0
+hide called. Params: TConstruct, dagger
+Regex match found! TConstruct:dagger matches TConstruct:dagger.
+Found ItemStack TConstruct:dagger. 1xitem.InfiTool.Dagger@0
+hide called. Params: TConstruct, excavator
+Regex match found! TConstruct:excavator matches TConstruct:excavator.
+Found ItemStack TConstruct:excavator. 1xitem.InfiTool.Excavator@0
+hide called. Params: TConstruct, cleaver
+Regex match found! TConstruct:cleaver matches TConstruct:cleaver.
+Found ItemStack TConstruct:cleaver. 1xitem.InfiTool.Cleaver@0
+hide called. Params: TConstruct, hammer
+Regex match found! TConstruct:hammer matches TConstruct:hammer.
+Found ItemStack TConstruct:hammer. 1xitem.InfiTool.Hammer@0
+hide called. Params: TConstruct, frypan
+Regex match found! TConstruct:frypan matches TConstruct:frypan.
+Found ItemStack TConstruct:frypan. 1xitem.InfiTool.FryPan@0
+hide called. Params: TConstruct, hatchet
+Regex match found! TConstruct:hatchet matches TConstruct:hatchet.
+Found ItemStack TConstruct:hatchet. 1xitem.InfiTool.Axe@0
+hide called. Params: TConstruct, longsword
+Regex match found! TConstruct:longsword matches TConstruct:longsword.
+Found ItemStack TConstruct:longsword. 1xitem.InfiTool.Longsword@0
+hide called. Params: TConstruct, lumberaxe
+Regex match found! TConstruct:lumberaxe matches TConstruct:lumberaxe.
+Found ItemStack TConstruct:lumberaxe. 1xitem.InfiTool.LumberAxe@0
+hide called. Params: TConstruct, mattock
+Regex match found! TConstruct:mattock matches TConstruct:mattock.
+Found ItemStack TConstruct:mattock. 1xitem.InfiTool.Mattock@0
+hide called. Params: TConstruct, pickaxe
+Regex match found! TConstruct:pickaxe matches TConstruct:pickaxe.
+Found ItemStack TConstruct:pickaxe. 1xitem.InfiTool.Pickaxe@0
+hide called. Params: TConstruct, rapier
+Regex match found! TConstruct:rapier matches TConstruct:rapier.
+Found ItemStack TConstruct:rapier. 1xitem.InfiTool.Rapier@0
+hide called. Params: TConstruct, scythe
+Regex match found! TConstruct:scythe matches TConstruct:scythe.
+Found ItemStack TConstruct:scythe. 1xitem.InfiTool.Scythe@0
+hide called. Params: TConstruct, shovel
+Regex match found! TConstruct:shovel matches TConstruct:shovel.
+Found ItemStack TConstruct:shovel. 1xitem.InfiTool.Shovel@0
+hide called. Params: TConstruct, battleaxe
+Regex match found! TConstruct:battleaxe matches TConstruct:battleaxe.
+Found ItemStack TConstruct:battleaxe. 1xitem.InfiTool.Battleaxe@0
+hide called. Params: TConstruct, battlesign
+Regex match found! TConstruct:battlesign matches TConstruct:battlesign.
+Found ItemStack TConstruct:battlesign. 1xitem.InfiTool.Battlesign@0
+hide called. Params: TConstruct, creativeModifier
+Regex match found! TConstruct:creativeModifier matches TConstruct:creativeModifier.
+Found ItemStack TConstruct:creativeModifier. 64xitem.tconstruct.modifier.creative@0
+hide called. Params: TConstruct, decoration.stonetorch
+Regex match found! TConstruct:decoration.stonetorch matches TConstruct:decoration.stonetorch.
+Found ItemStack TConstruct:decoration.stonetorch. 64xtile.decoration.stonetorch@0
+hide called. Params: TConstruct, oreBerries
+Regex match found! TConstruct:oreBerries matches TConstruct:oreBerries.
+Found ItemStack TConstruct:oreBerries. 64xitem.oreberry@0
+hide called. Params: TConstruct:CraftedSoil, 1
+override called. Params: TConstruct, BoltPart, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:BoltPart matches TConstruct:BoltPart.
+Found ItemStack TConstruct:BoltPart. 64xitem.tconstruct.Bolt@0
+override called. Params: TConstruct, BowLimbPart, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:BowLimbPart matches TConstruct:BowLimbPart.
+Found ItemStack TConstruct:BowLimbPart. 64xitem.tconstruct.BowLimb@0
+override called. Params: TConstruct, CrossbowBodyPart, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:CrossbowBodyPart matches TConstruct:CrossbowBodyPart.
+Found ItemStack TConstruct:CrossbowBodyPart. 64xitem.tconstruct.CrossbowBody@0
+override called. Params: TConstruct, CrossbowLimbPart, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:CrossbowLimbPart matches TConstruct:CrossbowLimbPart.
+Found ItemStack TConstruct:CrossbowLimbPart. 64xitem.tconstruct.CrossbowLimb@0
+override called. Params: TConstruct, ShurikenPart, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:ShurikenPart matches TConstruct:ShurikenPart.
+Found ItemStack TConstruct:ShurikenPart. 64xitem.tconstruct.Shuriken@0
+override called. Params: TConstruct, arrowhead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:arrowhead matches TConstruct:arrowhead.
+Found ItemStack TConstruct:arrowhead. 64xitem.tconstruct.ArrowHead@0
+override called. Params: TConstruct, binding, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:binding matches TConstruct:binding.
+Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
+override called. Params: TConstruct, bowstring, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:bowstring matches TConstruct:bowstring.
+Found ItemStack TConstruct:bowstring. 64xitem.tconstruct.Bowstring@0
+override called. Params: TConstruct, broadAxeHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:broadAxeHead matches TConstruct:broadAxeHead.
+Found ItemStack TConstruct:broadAxeHead. 64xitem.tconstruct.LumberAxeHead@0
+override called. Params: TConstruct, chisel, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:chisel matches TConstruct:chisel.
+Found ItemStack TConstruct:chisel. 1xitem.InfiTool.Chisel@0
+override called. Params: TConstruct, chiselHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:chiselHead matches TConstruct:chiselHead.
+Found ItemStack TConstruct:chiselHead. 64xitem.tconstruct.ChiselHead@0
+override called. Params: TConstruct, crossbar, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:crossbar matches TConstruct:crossbar.
+Found ItemStack TConstruct:crossbar. 64xitem.tconstruct.Crossbar@0
+override called. Params: TConstruct, excavatorHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:excavatorHead matches TConstruct:excavatorHead.
+Found ItemStack TConstruct:excavatorHead. 64xitem.tconstruct.ExcavatorHead@0
+override called. Params: TConstruct, fletching, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:fletching matches TConstruct:fletching.
+Found ItemStack TConstruct:fletching. 64xitem.tconstruct.Fletching@0
+override called. Params: TConstruct, frypanHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:frypanHead matches TConstruct:frypanHead.
+Found ItemStack TConstruct:frypanHead. 64xitem.tconstruct.FrypanHead@0
+override called. Params: TConstruct, fullGuard, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:fullGuard matches TConstruct:fullGuard.
+Found ItemStack TConstruct:fullGuard. 64xitem.tconstruct.FullGuard@0
+override called. Params: TConstruct, hammerHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:hammerHead matches TConstruct:hammerHead.
+Found ItemStack TConstruct:hammerHead. 64xitem.tconstruct.HammerHead@0
+override called. Params: TConstruct, handGuard, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:handGuard matches TConstruct:handGuard.
+Found ItemStack TConstruct:handGuard. 64xitem.tconstruct.MediumGuard@0
+override called. Params: TConstruct, hatchetHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:hatchetHead matches TConstruct:hatchetHead.
+Found ItemStack TConstruct:hatchetHead. 64xitem.tconstruct.AxeHead@0
+override called. Params: TConstruct, heavyPlate, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:heavyPlate matches TConstruct:heavyPlate.
+Found ItemStack TConstruct:heavyPlate. 64xitem.tconstruct.LargePlate@0
+override called. Params: TConstruct, knifeBlade, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:knifeBlade matches TConstruct:knifeBlade.
+Found ItemStack TConstruct:knifeBlade. 64xitem.tconstruct.KnifeBlade@0
+override called. Params: TConstruct, largeSwordBlade, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:largeSwordBlade matches TConstruct:largeSwordBlade.
+Found ItemStack TConstruct:largeSwordBlade. 64xitem.tconstruct.LargeSwordBlade@0
+override called. Params: TConstruct, pickaxeHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:pickaxeHead matches TConstruct:pickaxeHead.
+Found ItemStack TConstruct:pickaxeHead. 64xitem.tconstruct.PickaxeHead@0
+override called. Params: TConstruct, scytheBlade, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
+Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
+override called. Params: TConstruct, shovelHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:shovelHead matches TConstruct:shovelHead.
+Found ItemStack TConstruct:shovelHead. 64xitem.tconstruct.ShovelHead@0
+override called. Params: TConstruct, signHead, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:signHead matches TConstruct:signHead.
+Found ItemStack TConstruct:signHead. 64xitem.tconstruct.SignHead@0
+override called. Params: TConstruct, swordBlade, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:swordBlade matches TConstruct:swordBlade.
+Found ItemStack TConstruct:swordBlade. 64xitem.tconstruct.SwordBlade@0
+override called. Params: TConstruct, toolRod, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:toolRod matches TConstruct:toolRod.
+Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
+override called. Params: TConstruct, toughBinding, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:toughBinding matches TConstruct:toughBinding.
+Found ItemStack TConstruct:toughBinding. 64xitem.tconstruct.ToughBinding@0
+override called. Params: TConstruct, toughRod, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:toughRod matches TConstruct:toughRod.
+Found ItemStack TConstruct:toughRod. 64xitem.tconstruct.ToughRod@0
+override called. Params: TConstruct, wideGuard, 80,81,1,55,56,57,58,59,60,61,62
+Regex match found! TConstruct:wideGuard matches TConstruct:wideGuard.
+Found ItemStack TConstruct:wideGuard. 64xitem.tconstruct.LargeGuard@0

@@ -1,0 +1,195 @@
+{
+    "dirt": {
+        "template": "uniform",
+        "block": "dirt",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 20,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "gravel": {
+        "template": "uniform",
+        "block": "gravel",
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "coal": {
+        "template": {
+            "type": "fractal",
+            "generator": "large-vein",
+            "sparse": false
+        },
+        "block": "coal_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 1,
+        "chunkChance": 1,
+        "minHeight": 95,
+        "veinHeight": 6,
+        "veinDiameter": 32,
+        "verticalDensity": 16,
+        "horizontalDensity": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "iron": {
+        "template": {
+            "type": "fractal",
+            "generator": "large-vein",
+            "sparse": false
+        },
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 60,
+        "numClusters": 3,
+        "chunkChance": 16,
+        "minHeight": 24,
+        "veinHeight": 20,
+        "veinDiameter": 85,
+        "verticalDensity": 15,
+        "horizontalDensity": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "gold": {
+        "template": {
+            "type": "fractal",
+            "generator": "large-vein",
+            "sparse": false
+        },
+        "block": "gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 30,
+        "numClusters": 2,
+        "chunkChance": 20,
+        "minHeight": 24,
+        "veinHeight": 22,
+        "veinDiameter": 85,
+        "verticalDensity": 15,
+        "horizontalDensity": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "redstone": {
+        "template": {
+            "type": "fractal",
+            "generator": "large-vein",
+            "sparse": false
+        },
+        "block": [
+            {
+                "name": "redstone_ore",
+                "weight": 80
+            },
+            {
+                "name": "ReactorCraft:reactorcraft_block_ore",
+                "metadata": 1,
+                "weight": 20
+            }
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 50,
+        "numClusters": 4,
+        "chunkChance": 20,
+        "minHeight": 2,
+        "veinHeight": 20,
+        "veinDiameter": 85,
+        "verticalDensity": 15,
+        "horizontalDensity": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [ ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "diamond": {
+        "template": {
+            "type": "underfluid",
+            "generator": "plate"
+        },
+        "block": "diamond_ore",
+        "material": "minecraft:stone",
+        "genFluid": "lava",
+        "clusterSize": 3,
+        "numClusters": 1,
+        "sizeVariance": 2,
+        "height": 1,
+        "slim": true,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    },
+    "lapis": {
+        "template": {
+            "type": "fractal",
+            "generator": "large-vein",
+            "sparse": false
+        },
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 40,
+        "numClusters": 2,
+        "chunkChance": 20,
+        "minHeight": 10,
+        "veinHeight": 30,
+        "veinDiameter": 65,
+        "verticalDensity": 15,
+        "horizontalDensity": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            30
+        ]
+    }
+}
